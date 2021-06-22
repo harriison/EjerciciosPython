@@ -1,6 +1,7 @@
 primeros = input()
 nuevos = input()
 ganados = input()
+
 ganaPrimeros = 0
 ganaNuevos = 0
 
